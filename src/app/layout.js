@@ -8,7 +8,7 @@ const comfortaa = Comfortaa({
 });
 
 export const metadata = {
-  title: 'My Site',
+  title: 'KanPra',
   description: 'Under maintenance',
 };
 
